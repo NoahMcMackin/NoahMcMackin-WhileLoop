@@ -42,6 +42,6 @@ public class Lab {
             System.out.println(sum);
         }
 
-        return sum;
+        return sum ;
     }
 }
